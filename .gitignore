@@ -3,3 +3,8 @@
 20241010/.vs/20241010/v17/.futdcache.v2
 20241010/.vs/
 20241010/bin/
+*.v2
+*.dll
+*.json
+*.vsidx
+*.exe
